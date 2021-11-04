@@ -1,0 +1,17 @@
+export let resultado = document.querySelector("#resultado");
+export let btn1 = document.querySelector("#btn1");
+export let btn2 = document.querySelector("#btn2");
+export let btn3 = document.querySelector("#btn3");
+export let btn4 = document.querySelector("#btn4");
+export let btn5 = document.querySelector("#btn5");
+export let btn6 = document.querySelector("#btn6");
+export let btn7 = document.querySelector("#btn7");
+export let btn8 = document.querySelector("#btn8");
+export let btn9 = document.querySelector("#btn9");
+export let btnMas = document.querySelector("#btnMas");
+export let btnResta = document.querySelector("#btnResta");
+export let btnMultiplicar = document.querySelector("#btnMultiplicar");
+export let btnDividir = document.querySelector("#btnDividir");
+export let btnIgual = document.querySelector("#btnIgual");
+export let btn0 = document.querySelector("#btn0");
+export let btnReset = document.querySelector("#btnReset");
